@@ -1,6 +1,6 @@
 pkg load image
 
-%Prática 1
+% Prática 1
 
 close all
 clear all
